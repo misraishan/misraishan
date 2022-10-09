@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hayhay404&label=Profile%20views&color=0e75b6&style=flat" alt="hayhay404" /> </p>
 
-- 🔭 I’m currently working on [CommandMC](https://commandmc.hayhay.cc)
+- 🔭 I’m currently working on [Gaming84](https://github.com/hayhay404/Gaming84)
 
-- 🌱 I’m currently learning **React, NodeJS, Typescript, and Express**
+- 🌱 I’m currently learning **React and NextJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hayhay404](https://github.com/hayhay404)
 
