@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HayHay</h1>
 <h3 align="center">A passionate full stack developer, making bots and more fun stuff</h3>
 
-- 🔭 I’m currently working on [Gaming84](https://github.com/hayhay404/Gaming84)
+- 🔭 I’m currently working on [Chalk](https://github.com/HayHay404/Chalk)
 
 - 🌱 I’m currently learning **React and NextJS**
 
