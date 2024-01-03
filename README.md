@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm HayHay</h1>
 <h3 align="center">A passionate full stack developer, making bots and more fun stuff</h3>
 
-- 🔭 I’m currently working on [ChalkIt](https://chalkit.io)
-
-- 🌱 I’m currently learning **React and NextJS**
+- 🌱 I’m currently learning **React Native and Expo**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hayhay404](https://github.com/hayhay404)
 
