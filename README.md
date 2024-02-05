@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm HayHay</h1>
+<h1 align="center">Hi 👋, I'm Ishan</h1>
 <h3 align="center">A passionate full stack developer, making bots and more fun stuff</h3>
 
 - 🌱 I’m currently learning **React Native and Expo**
