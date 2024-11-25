@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ishan</h1>
 <h3 align="center">A passionate full stack developer, making bots and more fun stuff</h3>
 
-- 🌱 I’m currently learning **React Native and Expo**
+- 🌱 Currently working on [QuestKeeper](https://questkeeper.app)
 
 - 👨‍💻 All of my projects are available on my <a href="https://github.com/hayhay404">GitHub</a>
 
